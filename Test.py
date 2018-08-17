@@ -22,6 +22,6 @@ else:
     print("number is not 10")
 
 number = 8
-if number!=9:
+if number != 9:
     print('number is truthy')
 
