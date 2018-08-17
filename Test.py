@@ -12,7 +12,7 @@ print(y)
 g = 3
 h = 4
 
-var = "bigger" if g > h else "smaller"
+var = "bigger" if g > h else "small"
 print(var)
 
 no = 100
