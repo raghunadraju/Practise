@@ -15,11 +15,11 @@ h = 4
 var = "bigger" if g > h else "smaller"
 print(var)
 
-no = 10
-if no == 10:
-    print('number is 10')
+no = 100
+if no == 100:
+    print('number is 100')
 else:
-    print("number is not 10")
+    print("number is not 100")
 
 number = 8
 if number != 9:
