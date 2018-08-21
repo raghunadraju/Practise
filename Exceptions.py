@@ -32,5 +32,5 @@ print("the average score is: ", average)
 import string
 from random import *
 characters = string.ascii_letters + string.punctuation  + string.digits
-password =  "".join(choice(characters) for x in range(randint(8, 16)))
+password =  "".join(choice(characters) for x in range(randint(8, 15)))
 print(password)
